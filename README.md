@@ -106,8 +106,7 @@ should come with a citation or a reproducible notebook.
 
 ## Author
 
-**Christian T. Macion** — Quantitative Researcher + AI Engineer. Digos
-City, Davao del Sur (UTC+8). Background: PSHS-SMC → USeP units → UM → STA.
+**Christian T. Macion** — Quantitative Researcher, AI Engineer
 
 - Portfolio: [christianmacion26.github.io/portfolio/](https://christianmacion26.github.io/portfolio/)
 - GitHub: [@christianmacion26](https://github.com/christianmacion26)

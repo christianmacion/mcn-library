@@ -108,10 +108,4 @@ should come with a citation or a reproducible notebook.
 
 **Christian T. Macion** — Quantitative Researcher, AI Engineer
 
-- Portfolio: [christianmacion26.github.io/portfolio/](https://christianmacion26.github.io/portfolio/)
-- GitHub: [@christianmacion26](https://github.com/christianmacion26)
-- Medium: [@christianmacion](https://medium.com/@christianmacion)
-
----
-
 © Christian T. Macion. Released under the MIT License. See [LICENSE](./LICENSE).

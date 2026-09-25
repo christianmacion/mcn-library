@@ -33,7 +33,6 @@ This is the second workbook in the **Mentee Workbooks** series.
 
 ## Related
 
-- [Loop-Engineering](../loop-engineering/) — the convergence discipline
 - [Obsidian Wikilinks](../obsidian-wikilinks/) — the storage discipline
 - [Quant Research](../quant-engineering/) — the gating discipline
 

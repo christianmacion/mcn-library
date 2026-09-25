@@ -54,7 +54,6 @@ in his own working vault.
 ## Related
 
 - [Context-Engineering](../context-engineering/) — the retrieval discipline the vault serves
-- [Loop-Engineering](../loop-engineering/) — the convergence discipline that runs over the vault
 - [AI-Architecture Guide](../ai-architecture-guide/) — multi-agent boundaries and orchestration
 
 ---

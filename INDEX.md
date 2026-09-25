@@ -12,7 +12,6 @@
 
 1. [Mentee Workbooks](#01-mentee-workbooks) — the "from the Ground Up" teaching series
 2. ~~Craft Courses~~ — reserved, currently empty
-3. [Research Dossiers](#03-research-dossiers) — completed research write-ups
 4. [Field Guides](#04-field-guides) — practitioner workflow guides
 5. ~~Reference Exemplars~~ — reserved, currently empty (third-party)
 6. ~~Skill Definition~~ — reserved, currently empty (private infra)
@@ -23,22 +22,13 @@
 
 | # | Workbook | Topics | Size |
 |---|---------|--------|-----:|
-| 1 | [Loop Engineering — from the Ground Up](./01-Mentee-Workbooks/loop-engineering/) | Self-improving agent loops, convergence criteria, postmortem patterns | ~ MD README + HTML + PDF |
-| 2 | [Context Engineering — from the Ground Up](./01-Mentee-Workbooks/context-engineering/) | Context window discipline, retrieval primitives, M3 economy | README + HTML + PDF |
-| 3 | [Obsidian Wikilinks and the Karpathy Wiki — from the Ground Up](./01-Mentee-Workbooks/obsidian-wikilinks/) | Hand-curated knowledge graphs, PPR-over-graph retrieval, **hooks pattern** | README + HTML + PDF (public edition) |
-| 4 | [Quant Research and Trading with a Tight-Context LLM — from the Ground Up](./01-Mentee-Workbooks/quant-engineering/) | Quant research + tight-context LLM, eval gates G1–G31 | README + HTML + PDF |
-| 5 | [AI Architecture — from the Ground Up (Guide)](./01-Mentee-Workbooks/ai-architecture-guide/) | Multi-agent AI architecture, boundaries, orchestration | README + HTML + PDF |
-| 6 | [AI in Hedge Funds — Workbook](./01-Mentee-Workbooks/ai-in-hedge-funds/) | Institutional operating standard, audit-trail expectations | README + HTML + PDF |
+| 1 | [Context Engineering — from the Ground Up](./01-Mentee-Workbooks/context-engineering/) | Context window discipline, retrieval primitives, M3 economy | README + HTML + PDF |
+| 2 | [Obsidian Wikilinks and the Karpathy Wiki — from the Ground Up](./01-Mentee-Workbooks/obsidian-wikilinks/) | Hand-curated knowledge graphs, PPR-over-graph retrieval, **hooks pattern** | README + HTML + PDF (public edition) |
+| 3 | [Quant Research and Trading with a Tight-Context LLM — from the Ground Up](./01-Mentee-Workbooks/quant-engineering/) | Quant research + tight-context LLM, eval gates G1–G31 | README + HTML + PDF |
+| 4 | [AI Architecture — from the Ground Up (Guide)](./01-Mentee-Workbooks/ai-architecture-guide/) | Multi-agent AI architecture, boundaries, orchestration | README + HTML + PDF |
 
 ---
 
-## 03. Research Dossiers
-
-| # | Dossier | Topic | Files |
-|---|---------|-------|-------|
-| 1 | [Implied vs Realized Volatility — Complete Dossier](./03-Research-Dossiers/implied-vs-realized-volatility/) | VIX vs realized SPX var, 36y, Newey-West t +6.5 | README + HTML + PDF |
-
----
 
 ## 04. Field Guides
 

@@ -38,7 +38,6 @@ when downloaded), and a PDF (printable).
 ```
 MCN Library/
 ├── 01-Mentee-Workbooks/   ← the "from the Ground Up" teaching series
-├── 03-Research-Dossiers/  ← completed research write-ups
 ├── 04-Field-Guides/       ← practitioner workflow guides
 ├── README.md              ← this file
 ├── INDEX.md               ← every entry, alphabetical

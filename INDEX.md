@@ -12,7 +12,6 @@
 
 1. [Mentee Workbooks](#01-mentee-workbooks) — the "from the Ground Up" teaching series
 2. ~~Craft Courses~~ — reserved, currently empty
-4. [Field Guides](#04-field-guides) — practitioner workflow guides
 5. ~~Reference Exemplars~~ — reserved, currently empty (third-party)
 6. ~~Skill Definition~~ — reserved, currently empty (private infra)
 
@@ -30,13 +29,6 @@
 ---
 
 
-## 04. Field Guides
-
-| # | Guide | Topic | Files |
-|---|-------|-------|-------|
-| 1 | [Medium Christian — Workflow Guide](./04-Field-Guides/medium-workflow-guide/) | Self-publishing workflow, Claude-as-team pattern | README + HTML |
-
----
 
 ## Refresh commands
 

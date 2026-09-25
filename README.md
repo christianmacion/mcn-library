@@ -1,7 +1,7 @@
 # MCN Library
 
-> **A public library of teaching workbooks, research dossiers, and
-> field guides by Christian T. Macion — Quantitative Researcher & AI Engineer.**
+> **A public library of teaching workbooks and
+> guides by Christian T. Macion — Quantitative Researcher & AI Engineer.**
 
 | | |
 |---|---|
@@ -38,7 +38,6 @@ when downloaded), and a PDF (printable).
 ```
 MCN Library/
 ├── 01-Mentee-Workbooks/   ← the "from the Ground Up" teaching series
-├── 04-Field-Guides/       ← practitioner workflow guides
 ├── README.md              ← this file
 ├── INDEX.md               ← every entry, alphabetical
 └── LICENSE                ← MIT

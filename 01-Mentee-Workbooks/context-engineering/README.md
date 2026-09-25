@@ -34,7 +34,6 @@ This is the second workbook in the **Mentee Workbooks** series.
 ## Related
 
 - [Obsidian Wikilinks](../obsidian-wikilinks/) — the storage discipline
-- [Quant Research](../quant-engineering/) — the gating discipline
 
 ---
 

@@ -23,8 +23,7 @@
 |---|---------|--------|-----:|
 | 1 | [Context Engineering — from the Ground Up](./01-Mentee-Workbooks/context-engineering/) | Context window discipline, retrieval primitives, M3 economy | README + HTML + PDF |
 | 2 | [Obsidian Wikilinks and the Karpathy Wiki — from the Ground Up](./01-Mentee-Workbooks/obsidian-wikilinks/) | Hand-curated knowledge graphs, PPR-over-graph retrieval, **hooks pattern** | README + HTML + PDF (public edition) |
-| 3 | [Quant Research and Trading with a Tight-Context LLM — from the Ground Up](./01-Mentee-Workbooks/quant-engineering/) | Quant research + tight-context LLM, eval gates G1–G31 | README + HTML + PDF |
-| 4 | [AI Architecture — from the Ground Up (Guide)](./01-Mentee-Workbooks/ai-architecture-guide/) | Multi-agent AI architecture, boundaries, orchestration | README + HTML + PDF |
+| 3 | [AI Architecture — from the Ground Up (Guide)](./01-Mentee-Workbooks/ai-architecture-guide/) | Multi-agent AI architecture, boundaries, orchestration | README + HTML + PDF |
 
 ---
 
